@@ -16,18 +16,18 @@ Data Collection and Preparation:
 Gathered crime data from the City of Chicago's open data portal.
 Cleaned and pre-processed the data to ensure accuracy and consistency.
 Added necessary columns and calculated metrics such as crime rates and trends over time.
-Dashboard Development:
-Crime Overview:
+*Dashboard Development:
+->Crime Overview:
 Displayed total crime incidents, broken down by year, month, and day.
 Highlighted the most common crime types and their frequency.
-Geographical Analysis:
+->Geographical Analysis:
 Created a map view showing crime hotspots across different neighborhoods and districts.
 Used color coding to indicate the intensity of crime in various areas.
-Temporal Analysis:
+->Temporal Analysis:
 Developed charts to illustrate crime trends over time, identifying peak times and seasons for different crime types.
-Demographic Insights:
+->Demographic Insights:
 Analyzed the demographic information of crime victims and offenders, where available.
-Filter and Drill-Down Capabilities:
+->Filter and Drill-Down Capabilities:
 Enabled users to filter data by crime type, location, time, and other relevant dimensions.
 Provided drill-down features to explore specific incidents in detail.
 
